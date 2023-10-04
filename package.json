@@ -1,0 +1,16 @@
+{
+  "name": "omf-cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:test": "cypress open"
+  },
+  "keywords": ["cypress","typescript"],
+  "author": "AWS",
+  "license": "AWS",
+  "devDependencies": {
+    "cypress": "^13.0.0",
+    "typescript": "^5.2.0"
+  }
+}
